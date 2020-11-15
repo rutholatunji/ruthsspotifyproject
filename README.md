@@ -8,4 +8,6 @@ The objective of this project was to create an app using Spotify's API audio ana
 ### Goals
 To improve this project I want to use my results to make another code that I can loop into the audio analysis data.
 
-### See it live on ![Alt Text](http://bestanimations.com/Earth&Space/Planets/jupiter-planet-animation-10.gif) notebook
+### See it live on Jupyter notebook
+
+![Alt Text](http://bestanimations.com/Earth&Space/Planets/jupiter-planet-animation-10.gif) 
